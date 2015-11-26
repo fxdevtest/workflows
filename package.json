@@ -7,7 +7,7 @@
     "url": "?.git"
   },
   "author": "Radosław Włodkowski",
-  "license": "BSD",
+  "license": "MIT",
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-browserify": "^0.5.1",
@@ -15,7 +15,13 @@
     "gulp-compass": "^2.1.0",
     "gulp-concat": "^2.6.0",
     "gulp-connect": "^2.2.0",
+    "gulp-if": "^2.0.0",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-jsonminify": "^1.0.0",
+    "gulp-minify-html": "^1.0.4",
+    "gulp-uglify": "^1.5.1",
     "gulp-util": "^3.0.7",
+    "imagemin-pngquant": "^4.2.0",
     "jquery": "^2.1.4",
     "mustache": "^2.2.0"
   }
